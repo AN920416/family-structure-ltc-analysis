@@ -1,0 +1,1043 @@
+{
+  "dataset_shape": [
+    385890,
+    17
+  ],
+  "pairwise_overall": [
+    {
+      "group": "整體",
+      "child1": 0,
+      "child2": 1,
+      "child1_n": 20534,
+      "child1_users": 913,
+      "child1_rate": 0.04446284211551573,
+      "child2_n": 22629,
+      "child2_users": 833,
+      "child2_rate": 0.03681117150559017,
+      "chi2": 16.041752933671987,
+      "p_value": 6.19609108916966e-05,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          19621,
+          913
+        ],
+        [
+          21796,
+          833
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 1,
+      "child2": 2,
+      "child1_n": 22629,
+      "child1_users": 833,
+      "child1_rate": 0.03681117150559017,
+      "child2_n": 98128,
+      "child2_users": 2335,
+      "child2_rate": 0.02379545083971955,
+      "chi2": 121.43356390863754,
+      "p_value": 3.071154994277909e-28,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          21796,
+          833
+        ],
+        [
+          95793,
+          2335
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 2,
+      "child2": 3,
+      "child1_n": 98128,
+      "child1_users": 2335,
+      "child1_rate": 0.02379545083971955,
+      "child2_n": 127655,
+      "child2_users": 4277,
+      "child2_rate": 0.0335043672398261,
+      "chi2": 183.62887486289145,
+      "p_value": 7.818660199398718e-42,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          95793,
+          2335
+        ],
+        [
+          123378,
+          4277
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 3,
+      "child2": 4,
+      "child1_n": 127655,
+      "child1_users": 4277,
+      "child1_rate": 0.0335043672398261,
+      "child2_n": 71554,
+      "child2_users": 3939,
+      "child2_rate": 0.05504933337060122,
+      "chi2": 537.7181835043997,
+      "p_value": 5.91342103353485e-119,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          123378,
+          4277
+        ],
+        [
+          67615,
+          3939
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 4,
+      "child2": 5,
+      "child1_n": 71554,
+      "child1_users": 3939,
+      "child1_rate": 0.05504933337060122,
+      "child2_n": 28792,
+      "child2_users": 2394,
+      "child2_rate": 0.08314809669352598,
+      "chi2": 273.67156875177005,
+      "p_value": 1.797738265440932e-61,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          67615,
+          3939
+        ],
+        [
+          26398,
+          2394
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 0,
+      "child2": 2,
+      "child1_n": 20534,
+      "child1_users": 913,
+      "child1_rate": 0.04446284211551573,
+      "child2_n": 98128,
+      "child2_users": 2335,
+      "child2_rate": 0.02379545083971955,
+      "chi2": 271.6668206906256,
+      "p_value": 4.9162845574432275e-61,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          19621,
+          913
+        ],
+        [
+          95793,
+          2335
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 1,
+      "child2": 3,
+      "child1_n": 22629,
+      "child1_users": 833,
+      "child1_rate": 0.03681117150559017,
+      "child2_n": 127655,
+      "child2_users": 4277,
+      "child2_rate": 0.0335043672398261,
+      "chi2": 6.298883379338939,
+      "p_value": 0.012081405029696159,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          21796,
+          833
+        ],
+        [
+          123378,
+          4277
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 2,
+      "child2": 4,
+      "child1_n": 98128,
+      "child1_users": 2335,
+      "child1_rate": 0.02379545083971955,
+      "child2_n": 71554,
+      "child2_users": 3939,
+      "child2_rate": 0.05504933337060122,
+      "chi2": 1134.2711577363693,
+      "p_value": 1.1758371560051764e-248,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          95793,
+          2335
+        ],
+        [
+          67615,
+          3939
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 0,
+      "child2": 3,
+      "child1_n": 20534,
+      "child1_users": 913,
+      "child1_rate": 0.04446284211551573,
+      "child2_n": 127655,
+      "child2_users": 4277,
+      "child2_rate": 0.0335043672398261,
+      "chi2": 62.52934314617925,
+      "p_value": 2.6250422960272355e-15,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          19621,
+          913
+        ],
+        [
+          123378,
+          4277
+        ]
+      ]
+    },
+    {
+      "group": "整體",
+      "child1": 1,
+      "child2": 4,
+      "child1_n": 22629,
+      "child1_users": 833,
+      "child1_rate": 0.03681117150559017,
+      "child2_n": 71554,
+      "child2_users": 3939,
+      "child2_rate": 0.05504933337060122,
+      "chi2": 118.51036960540199,
+      "p_value": 1.3405152458910283e-27,
+      "fisher_p": null,
+      "use_fisher": false,
+      "significant": true,
+      "contingency_table": [
+        [
+          21796,
+          833
+        ],
+        [
+          67615,
+          3939
+        ]
+      ]
+    }
+  ],
+  "pairwise_stratified": {
+    "75-84×非低收中低收入戶": [
+      {
+        "group": "75-84×非低收中低收入戶",
+        "child1": 1,
+        "child2": 2,
+        "child1_n": 3745,
+        "child1_users": 244,
+        "child1_rate": 0.06515353805073432,
+        "child2_n": 16053,
+        "child2_users": 755,
+        "child2_rate": 0.04703170746900891,
+        "chi2": 20.436429255768214,
+        "p_value": 6.1645120511248076e-06,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            3501,
+            244
+          ],
+          [
+            15298,
+            755
+          ]
+        ]
+      },
+      {
+        "group": "75-84×非低收中低收入戶",
+        "child1": 2,
+        "child2": 3,
+        "child1_n": 16053,
+        "child1_users": 755,
+        "child1_rate": 0.04703170746900891,
+        "child2_n": 33953,
+        "child2_users": 1856,
+        "child2_rate": 0.05466379995876653,
+        "chi2": 12.675581048187889,
+        "p_value": 0.00037046207135630965,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            15298,
+            755
+          ],
+          [
+            32097,
+            1856
+          ]
+        ]
+      },
+      {
+        "group": "75-84×非低收中低收入戶",
+        "child1": 0,
+        "child2": 2,
+        "child1_n": 2372,
+        "child1_users": 120,
+        "child1_rate": 0.050590219224283306,
+        "child2_n": 16053,
+        "child2_users": 755,
+        "child2_rate": 0.04703170746900891,
+        "chi2": 0.5025417691488407,
+        "p_value": 0.4783854149130917,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": false,
+        "contingency_table": [
+          [
+            2252,
+            120
+          ],
+          [
+            15298,
+            755
+          ]
+        ]
+      }
+    ],
+    "85-94×非低收中低收入戶": [
+      {
+        "group": "85-94×非低收中低收入戶",
+        "child1": 1,
+        "child2": 2,
+        "child1_n": 1268,
+        "child1_users": 170,
+        "child1_rate": 0.13406940063091483,
+        "child2_n": 3692,
+        "child2_users": 577,
+        "child2_rate": 0.15628385698808234,
+        "chi2": 3.469426279623696,
+        "p_value": 0.06251298896694119,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": false,
+        "contingency_table": [
+          [
+            1098,
+            170
+          ],
+          [
+            3115,
+            577
+          ]
+        ]
+      },
+      {
+        "group": "85-94×非低收中低收入戶",
+        "child1": 2,
+        "child2": 3,
+        "child1_n": 3692,
+        "child1_users": 577,
+        "child1_rate": 0.15628385698808234,
+        "child2_n": 7861,
+        "child2_users": 1032,
+        "child2_rate": 0.13128100750540644,
+        "chi2": 12.893004015637196,
+        "p_value": 0.0003298126379780138,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            3115,
+            577
+          ],
+          [
+            6829,
+            1032
+          ]
+        ]
+      },
+      {
+        "group": "85-94×非低收中低收入戶",
+        "child1": 0,
+        "child2": 2,
+        "child1_n": 741,
+        "child1_users": 79,
+        "child1_rate": 0.10661268556005399,
+        "child2_n": 3692,
+        "child2_users": 577,
+        "child2_rate": 0.15628385698808234,
+        "chi2": 11.685603537786083,
+        "p_value": 0.0006298555178846386,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            662,
+            79
+          ],
+          [
+            3115,
+            577
+          ]
+        ]
+      }
+    ],
+    "65-74×非低收中低收入戶": [
+      {
+        "group": "65-74×非低收中低收入戶",
+        "child1": 1,
+        "child2": 2,
+        "child1_n": 16691,
+        "child1_users": 238,
+        "child1_rate": 0.014259181594871488,
+        "child2_n": 77254,
+        "child2_users": 805,
+        "child2_rate": 0.01042017241825666,
+        "chi2": 18.07692362414027,
+        "p_value": 2.1215719059156225e-05,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            16453,
+            238
+          ],
+          [
+            76449,
+            805
+          ]
+        ]
+      },
+      {
+        "group": "65-74×非低收中低收入戶",
+        "child1": 2,
+        "child2": 3,
+        "child1_n": 77254,
+        "child1_users": 805,
+        "child1_rate": 0.01042017241825666,
+        "child2_n": 84756,
+        "child2_users": 1188,
+        "child2_rate": 0.014016706781820756,
+        "chi2": 42.730238000920934,
+        "p_value": 6.283346131114983e-11,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            76449,
+            805
+          ],
+          [
+            83568,
+            1188
+          ]
+        ]
+      },
+      {
+        "group": "65-74×非低收中低收入戶",
+        "child1": 0,
+        "child2": 2,
+        "child1_n": 14322,
+        "child1_users": 184,
+        "child1_rate": 0.012847367686077363,
+        "child2_n": 77254,
+        "child2_users": 805,
+        "child2_rate": 0.01042017241825666,
+        "chi2": 6.43748907385906,
+        "p_value": 0.011173647575148911,
+        "fisher_p": null,
+        "use_fisher": false,
+        "significant": true,
+        "contingency_table": [
+          [
+            14138,
+            184
+          ],
+          [
+            76449,
+            805
+          ]
+        ]
+      }
+    ]
+  },
+  "logistic_overall": {
+    "group": "整體",
+    "sample_size": 385269,
+    "pseudo_r2": 0.026992235799677466,
+    "coefficients": [
+      {
+        "label": "const",
+        "child_count": null,
+        "coefficient": -3.0676198196251363,
+        "odds_ratio": 0.04653177717751374,
+        "ci_lower": 0.04354427027142698,
+        "ci_upper": 0.04972425244013241,
+        "p_value": 0.0,
+        "significant": true
+      },
+      {
+        "label": "child_1",
+        "child_count": 1,
+        "coefficient": -0.19682828391101012,
+        "odds_ratio": 0.8213316570642025,
+        "ci_lower": 0.746246950969366,
+        "ci_upper": 0.9039711184341187,
+        "p_value": 5.723365766327201e-05,
+        "significant": true
+      },
+      {
+        "label": "child_2",
+        "child_count": 2,
+        "coefficient": -0.6465579026676288,
+        "odds_ratio": 0.5238458052960572,
+        "ci_lower": 0.48452456974522023,
+        "ci_upper": 0.5663581268346645,
+        "p_value": 2.6098516315577617e-59,
+        "significant": true
+      },
+      {
+        "label": "child_3",
+        "child_count": 3,
+        "coefficient": -0.2943811646975292,
+        "odds_ratio": 0.7449924724872904,
+        "ci_lower": 0.6925285579415191,
+        "ci_upper": 0.801430897972578,
+        "p_value": 2.7640682072782046e-15,
+        "significant": true
+      },
+      {
+        "label": "child_4",
+        "child_count": 4,
+        "coefficient": 0.22471685168858224,
+        "odds_ratio": 1.2519681733259003,
+        "ci_lower": 1.1629874136950225,
+        "ci_upper": 1.3477568962169584,
+        "p_value": 2.3140995092506804e-09,
+        "significant": true
+      },
+      {
+        "label": "child_5",
+        "child_count": 5,
+        "coefficient": 0.6672971770541555,
+        "odds_ratio": 1.948962494835364,
+        "ci_lower": 1.8019210386895927,
+        "ci_upper": 2.1080029172850043,
+        "p_value": 2.0668094999059684e-62,
+        "significant": true
+      },
+      {
+        "label": "child_6",
+        "child_count": 6,
+        "coefficient": 0.8764084895123689,
+        "odds_ratio": 2.4022564652733176,
+        "ci_lower": 2.193749151526603,
+        "ci_upper": 2.630581587202712,
+        "p_value": 8.037322214128658e-80,
+        "significant": true
+      },
+      {
+        "label": "child_7",
+        "child_count": 7,
+        "coefficient": 1.0525606832446026,
+        "odds_ratio": 2.8649780343523874,
+        "ci_lower": 2.5389085620535394,
+        "ci_upper": 3.232924280929098,
+        "p_value": 2.3205296989425294e-65,
+        "significant": true
+      },
+      {
+        "label": "child_8",
+        "child_count": 8,
+        "coefficient": 1.2118607675641204,
+        "odds_ratio": 3.3597305172663314,
+        "ci_lower": 2.8259704729297432,
+        "ci_upper": 3.9943054100449964,
+        "p_value": 6.8263135888138566e-43,
+        "significant": true
+      }
+    ]
+  },
+  "logistic_stratified": {
+    "75-84×非低收中低收入戶": {
+      "group": "75-84×非低收中低收入戶",
+      "sample_size": 101210,
+      "pseudo_r2": 0.003950477166611788,
+      "coefficients": [
+        {
+          "label": "const",
+          "child_count": null,
+          "coefficient": -2.932082246477674,
+          "odds_ratio": 0.05328596802841177,
+          "ci_lower": 0.04434715404321989,
+          "ci_upper": 0.06402652999914497,
+          "p_value": 5.232428260797744e-215,
+          "significant": true
+        },
+        {
+          "label": "child_1",
+          "child_count": 1,
+          "coefficient": 0.2684465508162102,
+          "odds_ratio": 1.3079310673142825,
+          "ci_lower": 1.0445576767966638,
+          "ci_upper": 1.6377110760336542,
+          "p_value": 0.01928615589714219,
+          "significant": true
+        },
+        {
+          "label": "child_2",
+          "child_count": 2,
+          "coefficient": -0.07667738415511305,
+          "odds_ratio": 0.9261886085328341,
+          "ci_lower": 0.7600994121329343,
+          "ci_upper": 1.1285699276740946,
+          "p_value": 0.44699110828859556,
+          "significant": false
+        },
+        {
+          "label": "child_3",
+          "child_count": 3,
+          "coefficient": 0.08174331301710394,
+          "odds_ratio": 1.085177223208966,
+          "ci_lower": 0.8978528031264843,
+          "ci_upper": 1.3115842615525335,
+          "p_value": 0.3978373872654435,
+          "significant": false
+        },
+        {
+          "label": "child_4",
+          "child_count": 4,
+          "coefficient": 0.25939613461642824,
+          "odds_ratio": 1.296147151898915,
+          "ci_lower": 1.0719451975932588,
+          "ci_upper": 1.5672419104517792,
+          "p_value": 0.00742985949647889,
+          "significant": true
+        },
+        {
+          "label": "child_5",
+          "child_count": 5,
+          "coefficient": 0.44771922268838243,
+          "odds_ratio": 1.5647392906775157,
+          "ci_lower": 1.2868078570329367,
+          "ci_upper": 1.9026997965612407,
+          "p_value": 7.212906064698633e-06,
+          "significant": true
+        },
+        {
+          "label": "child_6",
+          "child_count": 6,
+          "coefficient": 0.48612891484164844,
+          "odds_ratio": 1.6260095994706003,
+          "ci_lower": 1.3131163165757023,
+          "ci_upper": 2.0134600295465286,
+          "p_value": 8.271736315941696e-06,
+          "significant": true
+        },
+        {
+          "label": "child_7",
+          "child_count": 7,
+          "coefficient": 0.5483361901721746,
+          "odds_ratio": 1.730371612182415,
+          "ci_lower": 1.3234850685096138,
+          "ci_upper": 2.262349600678567,
+          "p_value": 6.094208309252631e-05,
+          "significant": true
+        },
+        {
+          "label": "child_8",
+          "child_count": 8,
+          "coefficient": 0.4846331592245749,
+          "odds_ratio": 1.623579304495562,
+          "ci_lower": 1.0931481517914423,
+          "ci_upper": 2.4113929604751387,
+          "p_value": 0.016339431125556133,
+          "significant": true
+        }
+      ]
+    },
+    "85-94×非低收中低收入戶": {
+      "group": "85-94×非低收中低收入戶",
+      "sample_size": 36610,
+      "pseudo_r2": 0.0013441741525140882,
+      "coefficients": [
+        {
+          "label": "const",
+          "child_count": null,
+          "coefficient": -2.125817703469983,
+          "odds_ratio": 0.11933534743202459,
+          "ci_lower": 0.09450357086474366,
+          "ci_upper": 0.15069192641518336,
+          "p_value": 2.4558746327471797e-71,
+          "significant": true
+        },
+        {
+          "label": "child_1",
+          "child_count": 1,
+          "coefficient": 0.2603705184507691,
+          "odds_ratio": 1.2974107122270597,
+          "ci_lower": 0.9768741101806092,
+          "ci_upper": 1.7231233161561772,
+          "p_value": 0.07212008578545619,
+          "significant": false
+        },
+        {
+          "label": "child_2",
+          "child_count": 2,
+          "coefficient": 0.4396755387565288,
+          "odds_ratio": 1.552203506918335,
+          "ci_lower": 1.2092935585851314,
+          "ci_upper": 1.9923497564218329,
+          "p_value": 0.0005564993404242709,
+          "significant": true
+        },
+        {
+          "label": "child_3",
+          "child_count": 3,
+          "coefficient": 0.23613812055040245,
+          "odds_ratio": 1.2663492069376465,
+          "ci_lower": 0.9938479517793745,
+          "ci_upper": 1.6135670562488622,
+          "p_value": 0.0561269988205726,
+          "significant": false
+        },
+        {
+          "label": "child_4",
+          "child_count": 4,
+          "coefficient": 0.34847809477023506,
+          "odds_ratio": 1.4169095048552265,
+          "ci_lower": 1.114479239722502,
+          "ci_upper": 1.8014086520346224,
+          "p_value": 0.004444276248181204,
+          "significant": true
+        },
+        {
+          "label": "child_5",
+          "child_count": 5,
+          "coefficient": 0.40066654622562703,
+          "odds_ratio": 1.4928193992332486,
+          "ci_lower": 1.1720604021262007,
+          "ci_upper": 1.9013608468338685,
+          "p_value": 0.0011691343084755115,
+          "significant": true
+        },
+        {
+          "label": "child_6",
+          "child_count": 6,
+          "coefficient": 0.4153852279373246,
+          "odds_ratio": 1.514954230989996,
+          "ci_lower": 1.1812345603295467,
+          "ci_upper": 1.9429556153133507,
+          "p_value": 0.0010681331521687494,
+          "significant": true
+        },
+        {
+          "label": "child_7",
+          "child_count": 7,
+          "coefficient": 0.5028175568335322,
+          "odds_ratio": 1.653373187024809,
+          "ci_lower": 1.2621503470657918,
+          "ci_upper": 2.165861540923126,
+          "p_value": 0.00026223323103682916,
+          "significant": true
+        },
+        {
+          "label": "child_8",
+          "child_count": 8,
+          "coefficient": 0.6001678214395811,
+          "odds_ratio": 1.8224246166512232,
+          "ci_lower": 1.3322878552738626,
+          "ci_upper": 2.492878299707725,
+          "p_value": 0.0001733904307066327,
+          "significant": true
+        }
+      ]
+    },
+    "65-74×非低收中低收入戶": {
+      "group": "65-74×非低收中低收入戶",
+      "sample_size": 238934,
+      "pseudo_r2": 0.0063418939212399605,
+      "coefficients": [
+        {
+          "label": "const",
+          "child_count": null,
+          "coefficient": -4.341685729121918,
+          "odds_ratio": 0.013014570660630862,
+          "ci_lower": 0.011253080199904305,
+          "ci_upper": 0.015051794395102066,
+          "p_value": 0.0,
+          "significant": true
+        },
+        {
+          "label": "child_1",
+          "child_count": 1,
+          "coefficient": 0.10569329240674312,
+          "odds_ratio": 1.1114809245836017,
+          "ci_lower": 0.915746273657429,
+          "ci_upper": 1.3490525500902715,
+          "p_value": 0.2848839184727089,
+          "significant": false
+        },
+        {
+          "label": "child_2",
+          "child_count": 2,
+          "coefficient": -0.2118511242864408,
+          "odds_ratio": 0.8090851417284771,
+          "ci_lower": 0.6886599077244095,
+          "ci_upper": 0.9505690097872774,
+          "p_value": 0.009980517994663983,
+          "significant": true
+        },
+        {
+          "label": "child_3",
+          "child_count": 3,
+          "coefficient": 0.08829627836842846,
+          "odds_ratio": 1.0923117024199034,
+          "ci_lower": 0.9342598823157486,
+          "ci_upper": 1.2771016692764559,
+          "p_value": 0.26819202069178893,
+          "significant": false
+        },
+        {
+          "label": "child_4",
+          "child_count": 4,
+          "coefficient": 0.36231814322574,
+          "odds_ratio": 1.4366559316147784,
+          "ci_lower": 1.2174482824741542,
+          "ci_upper": 1.6953330137764961,
+          "p_value": 1.7928824716270517e-05,
+          "significant": true
+        },
+        {
+          "label": "child_5",
+          "child_count": 5,
+          "coefficient": 0.6205926550243276,
+          "odds_ratio": 1.8600300714196312,
+          "ci_lower": 1.5233032212379787,
+          "ci_upper": 2.271190540628958,
+          "p_value": 1.1257152621382847e-09,
+          "significant": true
+        },
+        {
+          "label": "child_6",
+          "child_count": 6,
+          "coefficient": 0.7361878839470335,
+          "odds_ratio": 2.0879607750472693,
+          "ci_lower": 1.5548471574671594,
+          "ci_upper": 2.80386414651697,
+          "p_value": 9.863914704448128e-07,
+          "significant": true
+        },
+        {
+          "label": "child_7",
+          "child_count": 7,
+          "coefficient": 0.5985366450739251,
+          "odds_ratio": 1.8194543438663278,
+          "ci_lower": 1.0300837841654455,
+          "ci_upper": 3.2137328635806885,
+          "p_value": 0.03920009196504498,
+          "significant": true
+        },
+        {
+          "label": "child_8",
+          "child_count": 8,
+          "coefficient": 2.031437763382304,
+          "odds_ratio": 7.625041486890181,
+          "ci_lower": 4.234416295011906,
+          "ci_upper": 13.730642814993452,
+          "p_value": 1.2956687352070771e-11,
+          "significant": true
+        }
+      ]
+    }
+  },
+  "visualization_paths": {
+    "u_shape_visualization": "visualizations/u_shape_analysis.png"
+  },
+  "derived_metrics": {
+    "pairwise_summary": {
+      "total_comparisons": 10,
+      "significant_comparisons": 10,
+      "significant_ratio": 1.0,
+      "key_comparisons": {
+        "1_vs_2": {
+          "child1_rate": 0.03681117150559017,
+          "child2_rate": 0.02379545083971955,
+          "p_value": 3.071154994277909e-28,
+          "significant": true,
+          "direction": "down"
+        },
+        "2_vs_3": {
+          "child1_rate": 0.02379545083971955,
+          "child2_rate": 0.0335043672398261,
+          "p_value": 7.818660199398718e-42,
+          "significant": true,
+          "direction": "up"
+        },
+        "0_vs_2": {
+          "child1_rate": 0.04446284211551573,
+          "child2_rate": 0.02379545083971955,
+          "p_value": 4.9162845574432275e-61,
+          "significant": true,
+          "direction": "down"
+        },
+        "1_vs_3": {
+          "child1_rate": 0.03681117150559017,
+          "child2_rate": 0.0335043672398261,
+          "p_value": 0.012081405029696159,
+          "significant": true,
+          "direction": "down"
+        }
+      }
+    },
+    "logistic_summary": {
+      "sample_size": 385269,
+      "pseudo_r2": 0.026992235799677466,
+      "min_risk_child": 2,
+      "min_risk_coefficient": -0.6465579026676288,
+      "u_shape_pattern": true,
+      "coefficients": [
+        {
+          "label": "child_1",
+          "child_count": 1,
+          "coefficient": -0.19682828391101012,
+          "odds_ratio": 0.8213316570642025,
+          "ci_lower": 0.746246950969366,
+          "ci_upper": 0.9039711184341187,
+          "p_value": 5.723365766327201e-05,
+          "significant": true
+        },
+        {
+          "label": "child_2",
+          "child_count": 2,
+          "coefficient": -0.6465579026676288,
+          "odds_ratio": 0.5238458052960572,
+          "ci_lower": 0.48452456974522023,
+          "ci_upper": 0.5663581268346645,
+          "p_value": 2.6098516315577617e-59,
+          "significant": true
+        },
+        {
+          "label": "child_3",
+          "child_count": 3,
+          "coefficient": -0.2943811646975292,
+          "odds_ratio": 0.7449924724872904,
+          "ci_lower": 0.6925285579415191,
+          "ci_upper": 0.801430897972578,
+          "p_value": 2.7640682072782046e-15,
+          "significant": true
+        },
+        {
+          "label": "child_4",
+          "child_count": 4,
+          "coefficient": 0.22471685168858224,
+          "odds_ratio": 1.2519681733259003,
+          "ci_lower": 1.1629874136950225,
+          "ci_upper": 1.3477568962169584,
+          "p_value": 2.3140995092506804e-09,
+          "significant": true
+        },
+        {
+          "label": "child_5",
+          "child_count": 5,
+          "coefficient": 0.6672971770541555,
+          "odds_ratio": 1.948962494835364,
+          "ci_lower": 1.8019210386895927,
+          "ci_upper": 2.1080029172850043,
+          "p_value": 2.0668094999059684e-62,
+          "significant": true
+        },
+        {
+          "label": "child_6",
+          "child_count": 6,
+          "coefficient": 0.8764084895123689,
+          "odds_ratio": 2.4022564652733176,
+          "ci_lower": 2.193749151526603,
+          "ci_upper": 2.630581587202712,
+          "p_value": 8.037322214128658e-80,
+          "significant": true
+        },
+        {
+          "label": "child_7",
+          "child_count": 7,
+          "coefficient": 1.0525606832446026,
+          "odds_ratio": 2.8649780343523874,
+          "ci_lower": 2.5389085620535394,
+          "ci_upper": 3.232924280929098,
+          "p_value": 2.3205296989425294e-65,
+          "significant": true
+        },
+        {
+          "label": "child_8",
+          "child_count": 8,
+          "coefficient": 1.2118607675641204,
+          "odds_ratio": 3.3597305172663314,
+          "ci_lower": 2.8259704729297432,
+          "ci_upper": 3.9943054100449964,
+          "p_value": 6.8263135888138566e-43,
+          "significant": true
+        }
+      ]
+    },
+    "stratified_pairwise_counts": {
+      "75-84×非低收中低收入戶": 3,
+      "85-94×非低收中低收入戶": 3,
+      "65-74×非低收中低收入戶": 3
+    },
+    "stratified_logistic_counts": {
+      "75-84×非低收中低收入戶": 9,
+      "85-94×非低收中低收入戶": 9,
+      "65-74×非低收中低收入戶": 9
+    }
+  },
+  "stratified_notes": {
+    "pairwise_skipped": {},
+    "logistic_skipped": {}
+  }
+}
